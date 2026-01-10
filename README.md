@@ -47,7 +47,7 @@ Predicting house prices is about more than just counting bedrooms or imagining a
 | Hyperparameter Tuning | Use `GridSearchCV` or `Optuna` for optimal model parameters.             |
 | Transformations       | Apply log-transformations to skewed target variables.                    |
 | External Features     | Incorporate neighborhood and location-based data to enhance predictions. |
-##   🔮 Future Improvements
+## 📖 References
 | Resource                      | Link                                                                                                                                                               |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Kaggle Competition            | [https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) |
